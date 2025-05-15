@@ -97,3 +97,13 @@ If you find our work useful in your research, please consider citing:
 	}
 
 ---
+
+## 追記
+
+TF2 -> 3対応しています。モデルをdownloadした後、
+
+```bash
+python convert_model.py
+```
+
+を実行してください。
