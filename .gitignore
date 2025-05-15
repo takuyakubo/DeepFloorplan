@@ -1,0 +1,6 @@
+pretrained/pretrained_r3d/
+pretrained/pretrained_r3d_saved_model/
+pretrained/r3d.tfrecords
+
+venv/
+.DS_Store
